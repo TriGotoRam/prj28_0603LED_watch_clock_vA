@@ -1,0 +1,1 @@
+Thisis a 0603 SMD Leds watch clock (badge) on STM8L051F3 MCU
